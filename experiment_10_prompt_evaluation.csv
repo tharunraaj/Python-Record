@@ -1,0 +1,6 @@
+Prompt_ID,Task,Weak_Prompt,Improved_Prompt
+P101,Explain photosynthesis,Explain photosynthesis.,"Act as a biology tutor. Explain photosynthesis for a Grade 8 student in 120 words. Include sunlight, chlorophyll, carbon dioxide and water. Give one example."
+P102,Write a formal email,Write an email.,Act as a communication assistant. Draft a polite email to a project manager requesting a two-day report extension. Include a subject and keep the body under 120 words.
+P103,Python debugging,Fix my code.,"Act as a Python mentor. Review the supplied function, identify the IndexError, provide corrected code and explain the fix in three bullet points."
+P104,Summarize a report,Summarize this.,Act as a research assistant. Summarize the supplied report for a college student in five bullet points. Preserve key facts and do not add unsupported information.
+P105,Compare algorithms,Which is better?,"Act as an algorithms instructor. Compare merge sort and bubble sort in a table using time complexity, space complexity, stability and use cases."
